@@ -1,4 +1,4 @@
-# sandwich_analysis
+# 🥪 sandwich_analysis 🥪
 
 ## Intro
 This repo analyzes the number of sandwich attacks that are present in UniswapV3 pools.
